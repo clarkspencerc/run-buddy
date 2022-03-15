@@ -1,10 +1,12 @@
+/* Hero Style Start*/
 .hero{
     background-position: bottom; 
     height: auto;
     text-align: center;
     margin-bottom: 40px;
 }
-
+/* Hero Style End*/
+/* Page Style Start*/
 .page-title {
     color: #fce138;
     display: inline-block;
@@ -14,8 +16,8 @@
     font-size: 42px;
     font-style: italic;
 }
-    
-
+ /* Page Style End*/   
+/* Secondary Content Style Start*/
 .secondary-content {
     width: 80%;
     margin: 0 auto;
@@ -41,3 +43,4 @@
     color: #39a6b2;
     margin: 10px 0;
 }
+/* Secondary Content Style End*/
