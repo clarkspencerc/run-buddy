@@ -274,3 +274,17 @@ section {
 }
 /*Reach Out Style End*/ 
 
+.hero-cta div{
+    width: 400px; 
+    display: inline-block;
+    text-align: left;
+
+}
+
+.hero-cta h1 {
+color:#fce138; 
+border-bottom: none;
+}
+.hero-cta p {
+    color: white; 
+}
