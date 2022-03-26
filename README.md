@@ -8,7 +8,7 @@ A webiste that offers fitness training services.
 * CSS 
 
 ## Website 
-https://learnantion.github.io/run-buddy/ 
+https://clarkspencerc.github.io/run-buddy/
 
 ## Contribution 
 Made with ❤️ by Spencer 
